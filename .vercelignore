@@ -1,0 +1,4 @@
+# Deploy only the site itself
+/*
+!project-ideas.html
+!vercel.json
